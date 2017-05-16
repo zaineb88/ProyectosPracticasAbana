@@ -44,7 +44,7 @@ public class Sumar {
 	
 		
 		int nLineas=calcularLineas.obtenerNumeroFicheros(ruta);
-		// System.out.println(nLineas);
+		 
 	
 				/////////////////////////
 				
@@ -73,6 +73,8 @@ public class Sumar {
 		
 		
 	}
+	///////////////////////////////////////////////////////////////
+	
 	
 	
           public static void leeFfichero(String ruta)
@@ -91,5 +93,9 @@ public class Sumar {
         }
     }
 }
+          
+          
+          
+          
 
 }
